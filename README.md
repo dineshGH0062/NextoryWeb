@@ -1,1 +1,1 @@
-# NextoryWeb
+#    jay  git remote add  NextoryWeb
